@@ -68,8 +68,9 @@ body {
 
 
 .ikon-anton {
-  width: 18%;
+  width: 20%;
   border-radius: 50%;
+  margin: auto;
 }
 
 .top-container {
